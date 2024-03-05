@@ -37,5 +37,3 @@ for i in range(50):
     pyautogui.click(x=654, y=270) # clique no botao de login
     time.sleep(7)
 
-
-    # Passo 3: Importar a base de produtos pra cadastrar
